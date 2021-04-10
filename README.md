@@ -1,3 +1,6 @@
+#SITE RESULT LINK
+https://kedjo-mars-weather.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,5 +31,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 # Mars-Weather
 npm install
 npm start
-
-https://kedjo-mars-weather.netlify.app/
